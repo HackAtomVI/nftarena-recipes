@@ -1,0 +1,59 @@
+{
+   "ID":"",
+   "doubles":[
+      {
+         "key":"damage",
+         "weightRanges":[
+            {
+               "lower":"",
+               "upper":"",
+               "weight":1
+            }
+         ]
+      },
+      {
+         "key":"accuracy",
+         "weightRanges":[
+            {
+               "lower":"",
+               "upper":"",
+               "weight":1
+            }
+         ]
+      }
+   ],
+   "longs":[
+      
+   ],
+   "strings":[
+      {
+         "key":"DamageType",
+         "value":""
+      },
+      {
+         "key":"ItemType",
+         "value":""
+      },
+      {
+         "key":"Description",
+         "value":""
+      },
+      {
+         "key":"NFT_URL",
+         "value":""
+      },
+      {
+         "key":"Enchantment",
+         "value":""
+      }
+   ],
+   "mutableStrings":[
+      
+   ],
+   "transferFee":[
+      
+   ],
+   "tradePercentage":"0.100000000000000000",
+   "amountMinted":1,
+   "tradeable":true
+}
