@@ -17,6 +17,9 @@ KEY=$(pylonsd keys show $DEV_NAME --address)
 #create account
 pylonsd tx pylons create-account $DEV_NAME --from $KEY
 
+#import nft
+sh ./recipes/importNFTRecipe.sh $GAME_NAME $VERSION $DEV_NAME $TOKEN_NAME_EXT
+
 #create cookbook
 pylonsd tx pylons create-cookbook $GAME_NAME $GAME_NAME "A place for NFTs to fight" $DEV_NAME $VERSION $DEV_MAIL "{\"denom\":\"$TOKEN_NAME\",\"amount\":\"50\"}" true --from $DEV_NAME
 
