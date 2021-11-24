@@ -1,0 +1,14 @@
+Query for heroes by owner:
+1. GET pylons/items/{owner-adress} => returns an array of items
+2. Filter every item by searching for {"key":"ItemType","value":"nft"} in item.strings
+
+Query for hero by id:
+1. GET pylons/items/nftarena/{hero-ID}
+
+Query for weaponsby owner:
+1. GET pylons/items/{owner-adress} => returns an array of items
+2. Filter every item by searching for {"key":"ItemType","value":"weapon"} in item.strings
+
+Query for armor by owner:
+1. GET pylons/items/{owner-adress} => returns an array of items
+2. Filter every item by searching for {"key":"ItemType","value":"armor"} in item.strings
