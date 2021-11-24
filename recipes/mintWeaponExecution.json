@@ -1,0 +1,43 @@
+{
+   "body":{
+      "messages":[
+         {
+            "@type":"/Pylonstech.pylons.pylons.MsgExecuteRecipe",
+            "creator":"<pylon-user-address>",
+            "cookbookID":"nftarena",
+            "recipeID":"mintweapon",
+            "coinInputsIndex":"0",
+            "itemIDs":[
+               
+            ],
+            "paymentInfos":[
+               
+            ]
+         }
+      ],
+      "memo":"",
+      "timeout_height":"0",
+      "extension_options":[
+         
+      ],
+      "non_critical_extension_options":[
+         
+      ]
+   },
+   "auth_info":{
+      "signer_infos":[
+         
+      ],
+      "fee":{
+         "amount":[
+            
+         ],
+         "gas_limit":"200000",
+         "payer":"",
+         "granter":""
+      }
+   },
+   "signatures":[
+      
+   ]
+}
