@@ -1,0 +1,628 @@
+Items:
+- ID: "11111111"
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "75"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 21D35quxec7
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "20.000000000000000000"
+  - Key: accuracy
+    Value: "0.450000000000000000"
+  lastUpdate: "764"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Agreatswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 2Aui6ejTFsd
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "790"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 2LcP7TYws99
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "826"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 2WK48GNSUQf
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "20.000000000000000000"
+  - Key: accuracy
+    Value: "0.450000000000000000"
+  lastUpdate: "1380"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Agreatswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 2g1j95Bw5gB
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "1428"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 2qiQ9t1Rgwh
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "1431"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 31R5AgpvJDD
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "1433"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 3B7kBVeQuUj
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "20.000000000000000000"
+  - Key: accuracy
+    Value: "0.450000000000000000"
+  lastUpdate: "1435"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Agreatswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 3LpRCJTuWkF
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "1437"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 3WX6D7HQ81m
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "20.000000000000000000"
+  - Key: accuracy
+    Value: "0.450000000000000000"
+  lastUpdate: "1440"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Agreatswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 3gDmDv6tjHH
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "20.000000000000000000"
+  - Key: accuracy
+    Value: "0.450000000000000000"
+  lastUpdate: "1443"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Agreatswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 3qvSEivPLYo
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "1445"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 41d7FXjswpK
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "1447"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 4BKnGLZNZ5q
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "1449"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 4M2TH9NsAMM
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "20.000000000000000000"
+  - Key: accuracy
+    Value: "0.450000000000000000"
+  lastUpdate: "1453"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Agreatswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 4Wj8HxCMmcs
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "20.000000000000000000"
+  - Key: accuracy
+    Value: "0.450000000000000000"
+  lastUpdate: "1456"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Agreatswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 4gRoJm1rNtP
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "1458"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: 4r8UKZqLz9u
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "1461"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: Ahg1opVcGX
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "20.000000000000000000"
+  - Key: accuracy
+    Value: "0.450000000000000000"
+  lastUpdate: "107"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Agreatswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: LQM2cdzDY3
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "126"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: W723RTUpoZ
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "223"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: foh4EGyS55
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "253"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+- ID: qWN536U3Lb
+  cookbookID: nftarena
+  doubles:
+  - Key: damage
+    Value: "8.000000000000000000"
+  - Key: accuracy
+    Value: "0.750000000000000000"
+  lastUpdate: "535"
+  longs: []
+  mutableStrings: []
+  nodeVersion: "0"
+  owner: pylo1rwxvttv5n8pcv20q6a8leeq82cvxnnevzwgfzx
+  strings:
+  - Key: DamageType
+    Value: slice
+  - Key: ItemType
+    Value: weapon
+  - Key: Description
+    Value: Aswordtoslice
+  - Key: NFT_URL
+    Value: ""
+  - Key: Enchantment
+    Value: none
+  tradePercentage: "0.100000000000000000"
+  tradeable: true
+  transferFee: []
+pagination:
+  next_key: null
+  total: "24"

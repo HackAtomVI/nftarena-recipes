@@ -27,12 +27,16 @@
    ],
    "strings":[
       {
+         "key":"name",
+         "value":""
+      },
+      {
          "key":"DamageType",
          "value":""
       },
       {
          "key":"ItemType",
-         "value":""
+         "value":"weapon"
       },
       {
          "key":"Description",
