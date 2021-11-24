@@ -29,6 +29,12 @@ sh ./recipes/mintWeaponRecipe.sh $GAME_NAME $VERSION $DEV_NAME $TOKEN_NAME_EXT
 #create enchantWeapon
 sh ./recipes/enchantWeaponRecipe.sh $GAME_NAME $VERSION $DEV_NAME $TOKEN_NAME_EXT
 
+#create mintArmor
+sh ./recipes/mintArmorRecipe.sh $GAME_NAME $VERSION $DEV_NAME $TOKEN_NAME_EXT
+
+#create enchantArmor
+#sh ./recipes/enchantArmorRecipe.sh $GAME_NAME $VERSION $DEV_NAME $TOKEN_NAME_EXT
+
 #create dustItem
 sh ./recipes/dustItemRecipe.sh $GAME_NAME $VERSION $DEV_NAME $TOKEN_NAME_EXT
 

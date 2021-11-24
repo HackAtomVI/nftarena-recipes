@@ -2,7 +2,7 @@
    "ID":"",
    "doubles":[
       {
-         "key":"damage",
+         "key":"initiative",
          "weightRanges":[
             {
                "lower":"",
@@ -12,7 +12,47 @@
          ]
       },
       {
-         "key":"accuracy",
+         "key":"accuracyModifier",
+         "weightRanges":[
+            {
+               "lower":"",
+               "upper":"",
+               "weight":1
+            }
+         ]
+      },
+      {
+         "key":"sliceDef",
+         "weightRanges":[
+            {
+               "lower":"",
+               "upper":"",
+               "weight":1
+            }
+         ]
+      },
+      {
+         "key":"bluntDef",
+         "weightRanges":[
+            {
+               "lower":"",
+               "upper":"",
+               "weight":1
+            }
+         ]
+      },
+      {
+         "key":"stabDef",
+         "weightRanges":[
+            {
+               "lower":"",
+               "upper":"",
+               "weight":1
+            }
+         ]
+      },
+      {
+         "key":"boltDef",
          "weightRanges":[
             {
                "lower":"",
@@ -31,12 +71,8 @@
          "value":""
       },
       {
-         "key":"DamageType",
-         "value":""
-      },
-      {
          "key":"ItemType",
-         "value":"weapon"
+         "value":"armor"
       },
       {
          "key":"Description",
@@ -48,7 +84,7 @@
       },
       {
          "key":"Enchantment",
-         "value":""
+         "value":"none"
       }
    ],
    "mutableStrings":[
