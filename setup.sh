@@ -33,7 +33,7 @@ sh ./recipes/enchantWeaponRecipe.sh $GAME_NAME $VERSION $DEV_NAME $TOKEN_NAME_EX
 sh ./recipes/mintArmorRecipe.sh $GAME_NAME $VERSION $DEV_NAME $TOKEN_NAME_EXT
 
 #create enchantArmor
-#sh ./recipes/enchantArmorRecipe.sh $GAME_NAME $VERSION $DEV_NAME $TOKEN_NAME_EXT
+sh ./recipes/enchantArmorRecipe.sh $GAME_NAME $VERSION $DEV_NAME $TOKEN_NAME_EXT
 
 #create dustItem
 sh ./recipes/dustItemRecipe.sh $GAME_NAME $VERSION $DEV_NAME $TOKEN_NAME_EXT
