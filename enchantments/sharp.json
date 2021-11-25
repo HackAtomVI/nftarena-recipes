@@ -1,0 +1,1 @@
+{"ID":"sharp","itemInputRef":"weapon","doubles":[{"key":"damage","weightRanges":[],"program":"damage+double(2)"}],"longs":[],"strings":[{"key":"Enchantment","value":"sharp"}],"mutableStrings":[],"transferFee":[],"tradePercentage":"0.100000000000000000","tradeable":true}

@@ -1,0 +1,1 @@
+{"ID":"light","itemInputRef":"weapon","doubles":[{"key":"damage","weightRanges":[],"program":"damage-double(2)"},{"key":"accuracy","weightRanges":[],"program":"accuracy+double(0.1)"}],"longs":[],"strings":[{"key":"Enchantment","value":"light"}],"mutableStrings":[],"transferFee":[],"tradePercentage":"0.100000000000000000","tradeable":true}

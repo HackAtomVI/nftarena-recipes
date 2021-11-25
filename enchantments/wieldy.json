@@ -1,0 +1,1 @@
+{"ID":"wieldy","itemInputRef":"weapon","doubles":[{"key":"accuracy","weightRanges":[],"program":"accuracy+double(0.05)"}],"longs":[],"strings":[{"key":"Enchantment","value":"wieldy"}],"mutableStrings":[],"transferFee":[],"tradePercentage":"0.100000000000000000","tradeable":true}

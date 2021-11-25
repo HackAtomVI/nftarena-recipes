@@ -1,0 +1,1 @@
+{"ID":"oversized","itemInputRef":"weapon","doubles":[{"key":"damage","weightRanges":[],"program":"damage+double(4)"},{"key":"accuracy","weightRanges":[],"program":"accuracy-double(0.05)"}],"longs":[],"strings":[{"key":"Enchantment","value":"oversized"}],"mutableStrings":[],"transferFee":[],"tradePercentage":"0.100000000000000000","tradeable":true}
