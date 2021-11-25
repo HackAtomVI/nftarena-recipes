@@ -1,0 +1,1 @@
+{"ID":"underlaid","itemInputRef":"armor","doubles":[{"key":"bluntDef","weightRanges":[],"program":"bluntDef+double(1)"}],"longs":[],"strings":[{"key":"Enchantment","value":"underlaid"}],"mutableStrings":[],"transferFee":[],"tradePercentage":"0.100000000000000000","tradeable":true}

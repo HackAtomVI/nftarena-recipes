@@ -1,0 +1,1 @@
+{"ID":"hardened","itemInputRef":"armor","doubles":[{"key":"stabDef","weightRanges":[],"program":"stabDef+double(1)"}],"longs":[],"strings":[{"key":"Enchantment","value":"hardened"}],"mutableStrings":[],"transferFee":[],"tradePercentage":"0.100000000000000000","tradeable":true}

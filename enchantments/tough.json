@@ -1,0 +1,1 @@
+{"ID":"tough","itemInputRef":"armor","doubles":[{"key":"sliceDef","weightRanges":[],"program":"sliceDef+double(1)"}],"longs":[],"strings":[{"key":"Enchantment","value":"tough"}],"mutableStrings":[],"transferFee":[],"tradePercentage":"0.100000000000000000","tradeable":true}

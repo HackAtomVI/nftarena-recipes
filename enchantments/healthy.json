@@ -1,0 +1,1 @@
+{"ID":"healthy","itemInputRef":"armor","doubles":[{"key":"accuracyModifier","weightRanges":[],"program":"accuracyModifier+double(0.1)"}],"longs":[],"strings":[{"key":"Enchantment","value":"healthy"}],"mutableStrings":[],"transferFee":[],"tradePercentage":"0.100000000000000000","tradeable":true}

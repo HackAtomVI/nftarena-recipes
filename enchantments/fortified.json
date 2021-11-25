@@ -1,0 +1,1 @@
+{"ID":"fortified","itemInputRef":"armor","doubles":[{"key":"boltDef","weightRanges":[],"program":"boltDef+double(1)"}],"longs":[],"strings":[{"key":"Enchantment","value":"fortified"}],"mutableStrings":[],"transferFee":[],"tradePercentage":"0.100000000000000000","tradeable":true}
