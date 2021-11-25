@@ -16,3 +16,8 @@ Query for armor by owner:
 Query for armor by owner:
 1. GET pylons/items/{owner-adress} => returns an array of items
 2. Filter every item by searching for {"key":"ItemType","value":"shield"} in item.strings
+
+Create a hero:
+1. execute the importNFTRecipe
+2. execute setNFTImage
+3. execute setNFTNAME
