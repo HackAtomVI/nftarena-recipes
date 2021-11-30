@@ -24,8 +24,11 @@ pylonsd tx pylons execute-recipe $GAME_NAME mintweapon 0 '[]' '[]' --from $USR_N
 #mint an armor
 pylonsd tx pylons execute-recipe $GAME_NAME mintarmor 0 '[]' '[]' --from $USR_NAME
 
-#mint a sield
+#mint a shield
 pylonsd tx pylons execute-recipe $GAME_NAME mintshield 0 '[]' '[]' --from $USR_NAME
+
+#import a nft
+pylonsd tx pylons execute-recipe $GAME_NAME importnft 0 '[]' '[]' --from $USR_NAME
 
 
 echo $KEY
