@@ -12,11 +12,15 @@ KEY=$(pylonsd keys show $USR_NAME --address)
 #create account
 pylonsd tx pylons create-account $USR_NAME --from $KEY
 
+sleep 5
+
 #get pylons
 curl -X POST "0.0.0.0:4500/" -H "accept:application/json" -H "Content-Type:application/json" -d "{\"address\":\"$KEY\",\"coins\":[\"10000upylon\"]}"
 
 #get coins
 pylonsd tx pylons execute-recipe $GAME_NAME getcoins 0 '[]' '[]' --from $USR_NAME
+
+sleep 5
 
 #mint a weapon
 pylonsd tx pylons execute-recipe $GAME_NAME mintweapon 0 '[]' '[]' --from $USR_NAME

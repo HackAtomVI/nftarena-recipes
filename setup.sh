@@ -18,6 +18,8 @@ KEY=$(pylonsd keys show $DEV_NAME --address)
 #create account
 pylonsd tx pylons create-account $DEV_NAME --from $KEY
 
+sleep 5
+
 #create cookbook
 pylonsd tx pylons create-cookbook $GAME_NAME $GAME_NAME "A place for NFTs to fight" $DEV_NAME $VERSION $DEV_MAIL true --from $DEV_NAME
 
