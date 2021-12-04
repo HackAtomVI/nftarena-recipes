@@ -1,4 +1,6 @@
 #!/bin/sh
+NODE=tcp://localhost:26659
+
 GAME_NAME="nftarena"
 DEV_NAME="marius"
 DEV_MAIL="sample@gmail.com"
@@ -8,6 +10,8 @@ TOKEN_NAME_EXT=$GAME_NAME"/"$TOKEN_NAME
 VERSION="v1.0.0"
 COSTPERBLOCK="{\"denom\":\"$TOKEN_NAME\",\"amount\":\"50\"}"
 
+
+pylonsd config node $NODE
 
 #create key
 pylonsd keys add $DEV_NAME
