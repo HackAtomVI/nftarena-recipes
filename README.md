@@ -12,8 +12,8 @@ The recipes will be created using the pylonsd-cli so you need access to the node
 3. Start the blockchain `starport chain serve`
 
 ### Setup recipes
-4. Clone this repo in another folder `git@github.com:HackAtomVI/nftarena-recipes.git`
+4. Clone this repo in another folder `git clone git@github.com:HackAtomVI/nftarena-recipes.git`
 5. Execute `sh setup.sh` in this folder and confirm every transaction popping up
 
-### Set test user
+### Set test user (only for cli-testing)
 6. Execute `sh setupTestUser.sh` in this folder and confirm every transaction popping up
