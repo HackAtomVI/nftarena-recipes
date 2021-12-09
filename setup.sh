@@ -28,7 +28,7 @@ sleep 5
 pylonsd tx pylons create-cookbook $GAME_NAME $GAME_NAME "A place for NFTs to fight" $DEV_NAME $VERSION $DEV_MAIL true --from $DEV_NAME
 
 #create faucet
-pylonsd tx pylons create-recipe $GAME_NAME getcoins getcoins "Get some coins to test" $VERSION '[]' '[]' '{"coinOutputs": [{"ID":"coinShower",  "coin":{"denom":"'$TOKEN_NAME'","amount": "100000"}}], "itemOutputs": [],"itemModifyOutputs":[]}' '[{"entryIDs": ["coinShower"],"weight": 1}]' 1 $COSTPERBLOCK true "" --from $DEV_NAME
+pylonsd tx pylons create-recipe $GAME_NAME getcoins getcoins "Get some coins to test" $VERSION '[]' '[]' '{"coinOutputs": [{"ID":"coinShower",  "coin":{"denom":"'$TOKEN_NAME'","amount": "1000"}}], "itemOutputs": [],"itemModifyOutputs":[]}' '[{"entryIDs": ["coinShower"],"weight": 1}]' 1 $COSTPERBLOCK true "" --from $DEV_NAME
 
 #create mintweapon
 sh ./recipes/mintWeaponRecipe.sh $GAME_NAME $VERSION $DEV_NAME $TOKEN_NAME_EXT $COSTPERBLOCK
