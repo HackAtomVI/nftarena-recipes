@@ -11,9 +11,9 @@ KITESHIELD_ID="kiteShield"
 HEATERSHIELD_ID="heaterShield"
 TOWERSHIELD_ID="towerShield"
 
-ROUNDSHIELD=$(<./items/$ROUNDSHIELD_ID.json)
-KITESHIELD=$(<./items/$KITESHIELD_ID.json)
-HEATERSHIELD=$(<./items/$HEATERSHIELD_ID.json)
-TOWERSHIELD=$(<./items/$TOWERSHIELD_ID.json)
+ROUNDSHIELD=`cat ./items/$ROUNDSHIELD_ID.json`
+KITESHIELD=`cat ./items/$KITESHIELD_ID.json`
+HEATERSHIELD=`cat ./items/$HEATERSHIELD_ID.json`
+TOWERSHIELD=`cat ./items/$TOWERSHIELD_ID.json`
 
-pylonsd tx pylons create-recipe $GAME_NAME mintshield mintshield "mint a random shield" $VERSION '[{"coins": [{"denom": "'$TOKEN_NAME_EXT'", "amount": "100"}]}]' '[]' '{"coinOutputs": [],"itemOutputs": ['"$ROUNDSHIELD"','"$KITESHIELD"','"$HEATERSHIELD"','"$TOWERSHIELD"'],"itemModifyOutputs":[]}' '[{"entryIDs": ["'$ROUNDSHIELD_ID'"],"weight": 1},{"entryIDs": ["'$KITESHIELD_ID'"],"weight": 1},{"entryIDs": ["'$HEATERSHIELD_ID'"],"weight": 1},{"entryIDs": ["'$TOWERSHIELD_ID'"],"weight": 1}]' 1 $COSTPERBLOCK true "" --from $ACC_NAME
+pylonsd tx pylons create-recipe $GAME_NAME mintshield mintshield "mint a random shield" $VERSION '[{"coins": [{"denom": "'$TOKEN_NAME_EXT'", "amount": "100"}]}]' '[]' '{"coinOutputs": [],"itemOutputs": ['$ROUNDSHIELD','$KITESHIELD','$HEATERSHIELD','$TOWERSHIELD'],"itemModifyOutputs":[]}' '[{"entryIDs": ["'$ROUNDSHIELD_ID'"],"weight": 1},{"entryIDs": ["'$KITESHIELD_ID'"],"weight": 1},{"entryIDs": ["'$HEATERSHIELD_ID'"],"weight": 1},{"entryIDs": ["'$TOWERSHIELD_ID'"],"weight": 1}]' 1 $COSTPERBLOCK true "" --from $ACC_NAME
