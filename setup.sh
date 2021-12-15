@@ -8,7 +8,7 @@ DEV_MAIL="sample@gmail.com"
 TOKEN_NAME="coin"
 TOKEN_NAME_EXT=$GAME_NAME"/"$TOKEN_NAME
 VERSION="v1.0.0"
-COSTPERBLOCK="{\"denom\":\"$TOKEN_NAME\",\"amount\":\"50\"}"
+COSTPERBLOCK="{\"denom\":\"$TOKEN_NAME\",\"amount\":\"0\"}"
 
 
 pylonsd config node $NODE
